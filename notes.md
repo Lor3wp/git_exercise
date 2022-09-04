@@ -9,3 +9,6 @@ git commit -m "notes.md"
 git push
 
 editing file
+
+
+jees sotketaan vähä juttui
