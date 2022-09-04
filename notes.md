@@ -7,3 +7,5 @@ git push
 git add .
 git commit -m "notes.md"
 git push
+
+editing file
