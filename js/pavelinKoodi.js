@@ -10,3 +10,5 @@ for (let i = 0; i <= 20; i++) {
         b+=a;
     }
 }
+
+//tämä on tosissaan pavelin koodi eikä vilin, pavel ei varmanakaan varastanut tätä mahtavaa koodinpätkää
